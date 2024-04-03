@@ -1,2 +1,2 @@
 # HTML
-This is a reposiroty for just HTML projects
+This is a repository for just HTML projects
